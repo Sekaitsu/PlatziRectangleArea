@@ -1,0 +1,15 @@
+C:\Users\lbernate\source\repos\rectangleArea\rectangleArea\obj\Debug\net6.0\rectangleArea.csproj.AssemblyReference.cache
+C:\Users\lbernate\source\repos\rectangleArea\rectangleArea\obj\Debug\net6.0\rectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbernate\source\repos\rectangleArea\rectangleArea\obj\Debug\net6.0\rectangleArea.AssemblyInfoInputs.cache
+C:\Users\lbernate\source\repos\rectangleArea\rectangleArea\obj\Debug\net6.0\rectangleArea.AssemblyInfo.cs
+C:\Users\lbernate\source\repos\rectangleArea\rectangleArea\obj\Debug\net6.0\rectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\lbernate\source\repos\rectangleArea\rectangleArea\bin\Debug\net6.0\rectangleArea.exe
+C:\Users\lbernate\source\repos\rectangleArea\rectangleArea\bin\Debug\net6.0\rectangleArea.deps.json
+C:\Users\lbernate\source\repos\rectangleArea\rectangleArea\bin\Debug\net6.0\rectangleArea.runtimeconfig.json
+C:\Users\lbernate\source\repos\rectangleArea\rectangleArea\bin\Debug\net6.0\rectangleArea.dll
+C:\Users\lbernate\source\repos\rectangleArea\rectangleArea\bin\Debug\net6.0\rectangleArea.pdb
+C:\Users\lbernate\source\repos\rectangleArea\rectangleArea\obj\Debug\net6.0\rectangleArea.dll
+C:\Users\lbernate\source\repos\rectangleArea\rectangleArea\obj\Debug\net6.0\refint\rectangleArea.dll
+C:\Users\lbernate\source\repos\rectangleArea\rectangleArea\obj\Debug\net6.0\rectangleArea.pdb
+C:\Users\lbernate\source\repos\rectangleArea\rectangleArea\obj\Debug\net6.0\rectangleArea.genruntimeconfig.cache
+C:\Users\lbernate\source\repos\rectangleArea\rectangleArea\obj\Debug\net6.0\ref\rectangleArea.dll
